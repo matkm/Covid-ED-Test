@@ -1,0 +1,23 @@
+# Jekyll
+_site
+.jekyll
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+
+# Files
+.DS_Store
+*.swp
+*~
+
+# Folders
+/vendor
+
+# Ruby
+.bundle/
+Gemfile
+Gemfile.lock
+
+# Javascript
+node_nodules
+package.json
